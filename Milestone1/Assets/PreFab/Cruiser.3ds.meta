@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 2941fda47d275f34594569ede286b138
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bridge
+    100002: Cockpit
+    100004: Controls_6
+    100006: //RootNode
+    100008: Dash
+    100010: Door
+    100012: EngineBase
+    100014: Exhaust_4
+    100016: Hull
+    100018: InputContr
+    100020: LongWing
+    100022: Portholes
+    100024: Screen_6
+    100026: Seat_9
+    100028: ShortWing
+    100030: Window
+    400000: Bridge
+    400002: Cockpit
+    400004: Controls_6
+    400006: //RootNode
+    400008: Dash
+    400010: Door
+    400012: EngineBase
+    400014: Exhaust_4
+    400016: Hull
+    400018: InputContr
+    400020: LongWing
+    400022: Portholes
+    400024: Screen_6
+    400026: Seat_9
+    400028: ShortWing
+    400030: Window
+    2300000: Bridge
+    2300002: Cockpit
+    2300004: Controls_6
+    2300006: Dash
+    2300008: Door
+    2300010: EngineBase
+    2300012: Exhaust_4
+    2300014: Hull
+    2300016: InputContr
+    2300018: LongWing
+    2300020: Portholes
+    2300022: Screen_6
+    2300024: Seat_9
+    2300026: ShortWing
+    2300028: Window
+    3300000: Bridge
+    3300002: Cockpit
+    3300004: Controls_6
+    3300006: Dash
+    3300008: Door
+    3300010: EngineBase
+    3300012: Exhaust_4
+    3300014: Hull
+    3300016: InputContr
+    3300018: LongWing
+    3300020: Portholes
+    3300022: Screen_6
+    3300024: Seat_9
+    3300026: ShortWing
+    3300028: Window
+    4300000: Portholes
+    4300002: Hull
+    4300004: EngineBase
+    4300006: Exhaust_4
+    4300008: Cockpit
+    4300010: Door
+    4300012: Screen_6
+    4300014: InputContr
+    4300016: Seat_9
+    4300018: Controls_6
+    4300020: Dash
+    4300022: Bridge
+    4300024: Window
+    4300026: ShortWing
+    4300028: LongWing
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
